@@ -1,6 +1,6 @@
 {
-  "name": "LXK9301 task gallery",
-  "description": "https://gitee.com/lxk0301/jd_scripts/tree/master",
+  "name": "京东脚本合集",
+  "description": "",
   "task": [
      "2 9 * * * https://raw.githubusercontent.com/hxjpg/jd_scripts/main/jd_bean_change.js?token=AOQKXB5IVK6OTZPWN6BWCCLAYM2F4, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
      "10 7 * * * https://raw.githubusercontent.com/hxjpg/jd_scripts/main/jd_bean_home.js?token=AOQKXB4DCSOUXQ4QOE3KG6DAYM2G4, tag=领京豆额外奖励, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_bean_home.png, enabled=true",
