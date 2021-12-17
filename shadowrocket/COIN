@@ -1,0 +1,100 @@
+# CEFI
+DOMAIN-SUFFIX,aex.com,PROXY
+DOMAIN-SUFFIX,bibox.com,PROXY
+DOMAIN-SUFFIX,binance.cc,PROXY
+DOMAIN-SUFFIX,binance.com,PROXY
+DOMAIN-SUFFIX,binance.cloud,PROXY
+DOMAIN-SUFFIX,bntrace.com,PROXY
+DOMAIN-SUFFIX,bnappzh.com,PROXY
+DOMAIN-SUFFIX,bnbstatic.com,PROXY
+DOMAIN-SUFFIX,binance.im,PROXY
+DOMAIN-SUFFIX,bitcointalk.org,PROXY
+DOMAIN-SUFFIX,bitfinex.com,PROXY
+DOMAIN-SUFFIX,bitmex.com,PROXY
+DOMAIN-SUFFIX,ftx.com,PROXY
+DOMAIN-SUFFIX,gate.io,PROXY
+DOMAIN-SUFFIX,huobi.com,PROXY
+DOMAIN-SUFFIX,huobi.li,PROXY
+DOMAIN-SUFFIX,huobi.vc,PROXY
+DOMAIN-SUFFIX,huobi.ws,PROXY
+DOMAIN-SUFFIX,huobi.ae,PROXY
+DOMAIN-SUFFIX,huobi.bo,PROXY
+DOMAIN-SUFFIX,huobi.bs,PROXY
+DOMAIN-SUFFIX,huobi.do,PROXY
+DOMAIN-SUFFIX,huobi.sk,PROXY
+DOMAIN-SUFFIX,huobi.is,PROXY
+DOMAIN-SUFFIX,okex.com,PROXY
+DOMAIN-SUFFIX,sushi.com,PROXY
+DOMAIN-SUFFIX,uniswap.org,PROXY
+DOMAIN-SUFFIX,zb.com,PROXY
+DOMAIN-SUFFIX,huobiasia.club,PROXY
+DOMAIN-SUFFIX,huobiasia.vip,PROXY
+DOMAIN-SUFFIX,xfilecache.com,PROXY
+DOMAIN-SUFFIX,woodpeckerlog.com,PROXY
+DOMAIN-SUFFIX,bitvj.com,PROXY
+DOMAIN-SUFFIX,bitvk.com,PROXY
+DOMAIN-SUFFIX,bitderiv.com,PROXY
+DOMAIN-SUFFIX,hbabit.com,PROXY
+
+# Defi
+DOMAIN-SUFFIX,mdex.com,PROXY
+DOMAIN-SUFFIX,mdex.me,PROXY
+DOMAIN-SUFFIX,mdex.co,PROXY
+DOMAIN-SUFFIX,mdex.cc,PROXY
+DOMAIN-SUFFIX,coinwind.com,PROXY
+DOMAIN-SUFFIX,coinwind.pro,PROXY
+DOMAIN-SUFFIX,sun.io,PROXY
+DOMAIN-SUFFIX,justswap.io,PROXY
+DOMAIN-SUFFIX,depth.fi,PROXY
+DOMAIN-SUFFIX,hswap.com,PROXY
+DOMAIN-SUFFIX,coin.top,PROXY
+DOMAIN-SUFFIX,westarter.org,PROXY
+
+# Wallet
+DOMAIN-SUFFIX,hbwallet.net,PROXY
+DOMAIN-SUFFIX,mytokenpocket.vip,PROXY
+DOMAIN-SUFFIX,tokenpocket.pro,PROXY
+DOMAIN-SUFFIX,tronlink.org,PROXY
+DOMAIN-SUFFIX,hbwalletapi.net,PROXY
+DOMAIN-SUFFIX,quickwallet.io,PROXY
+
+# Miner
+DOMAIN-SUFFIX,unmineable.com,PROXY
+DOMAIN-SUFFIX,unminable.com,PROXY
+
+# Chain
+DOMAIN-SUFFIX,hecochain.com,PROXY
+DOMAIN-SUFFIX,tronalliance.com,PROXY
+DOMAIN-SUFFIX,tronalliance.cc,PROXY
+DOMAIN-SUFFIX,trongrid.io,PROXY
+DOMAIN-SUFFIX,infura.io,PROXY
+DOMAIN-SUFFIX,binance.org,PROXY
+DOMAIN-SUFFIX,http-mainnet-node.huobichain.com,PROXY
+
+# Dapp
+DOMAIN-SUFFIX,tronscan.io,PROXY
+DOMAIN-SUFFIX,tronscan.org,PROXY
+DOMAIN-SUFFIX,hogt.com,PROXY
+DOMAIN-SUFFIX,yfx.com,PROXY
+DOMAIN-SUFFIX,quickchart.io,PROXY
+DOMAIN-SUFFIX,ajax.cloudflare.com,PROXY
+DOMAIN-SUFFIX,coingecko.com,PROXY
+DOMAIN-SUFFIX,min-api.cryptocompare.com,PROXY
+DOMAIN-SUFFIX,wink.org,PROXY
+DOMAIN-SUFFIX,faviconkit.com,PROXY
+DOMAIN-SUFFIX,sgem.io,PROXY
+
+# Swap
+DOMAIN-SUFFIX,justswap.io,PROXY
+DOMAIN-SUFFIX,just.network,PROXY
+
+# News
+DOMAIN-SUFFIX,bishijie.com,PROXY
+DOMAIN-SUFFIX,blocktempo.com,PROXY
+
+# Info
+DOMAIN-SUFFIX,coinmarketcap.com,PROXY
+DOMAIN-SUFFIX,feixiaoquan.com,PROXY
+DOMAIN-SUFFIX,aicoin.cn,PROXY
+DOMAIN-SUFFIX,bqiapp.com,PROXY
+DOMAIN-SUFFIX,bqrank.net,PROXY
